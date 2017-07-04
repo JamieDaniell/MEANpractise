@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "webpack": "^3.0.0"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/JamieDaniell/MEANpractise.git"
+  }
 }
